@@ -1,0 +1,10 @@
+
+U"squid:SwitchLastCaseIsDefaultCheckY""Add a default case to this switch.(×ö³–úÿÿÿÿ
+Usquid:S1068"9Remove this unused "textDetectionFragment" private field.(ÈŸÁçûÿÿÿÿ
+|squid:S1450"`Remove the "detectionFragment" field and declare it as a local variable in the relevant methods.(îÖ½Ÿüÿÿÿÿ
+gsquid:S1301Y"KReplace this "switch" statement by "if" statements to increase readability.(×ö³–úÿÿÿÿ
+bsquid:CommentedOutCodeLineA"<This block of commented-out lines of code should be removed.(©ÈÞ¤
+ysquid:UselessImportCheck"URemove this unused import 'com.example.gagan.mlandroid.dectector.FaceDetectorHelper'.(¢‚Á§
+~squid:UselessImportCheck"URemove this unused import 'com.example.gagan.mlandroid.dectector.TextDetectorHelper'.(®¢Æ“øÿÿÿÿ
+ssquid:UselessImportCheck"ORemove this unused import 'com.example.gagan.mlandroid.dectector.BaseDetector'.(¹—ú¾
+esquid:MaximumInheritanceDepth"<This class has 7 parents which is greater than 5 authorized.(²Ú±Ž

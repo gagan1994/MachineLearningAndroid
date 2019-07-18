@@ -37,7 +37,7 @@ public class Utils {
     private static final HashMap<String, BaseDetector> _detectors = new HashMap<String, BaseDetector>();
 
     public static void initDetectors() {
-        _detectors.put(FACE, new FaceDetectorHelper());
+//        _detectors.put(FACE, new FaceDetectorHelper());
         _detectors.put(TEXT, new TextDetectorHelper());
     }
 

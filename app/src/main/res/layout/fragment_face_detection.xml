@@ -4,7 +4,7 @@
     android:layout_height="match_parent"
     tools:context="com.example.gagan.mlandroid.fragments.DetectionFragment">
 
-    <android.support.v4.widget.NestedScrollView
+    <ScrollView
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 
@@ -22,7 +22,6 @@
                 android:layout_marginBottom="10dp"
                 android:elevation="4dp" />
 
-
             <TextView
                 android:id="@+id/info"
                 android:layout_width="match_parent"
@@ -32,7 +31,7 @@
 
         </LinearLayout>
 
-    </android.support.v4.widget.NestedScrollView>
+    </ScrollView>
 
     <!-- TODO: Update blank fragment layout -->
 

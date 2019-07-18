@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void initFragment() {
         Utils.initDetectors();
-        addDetectionFragment(Utils.FACE);
+//        addDetectionFragment(Utils.FACE);
         addDetectionFragment(Utils.TEXT);
     }
 
